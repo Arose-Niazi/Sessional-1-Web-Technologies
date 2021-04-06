@@ -62,7 +62,7 @@ body{
 }
 .main-body{
     background-color: white;
-    padding: 3em 2em;
+    padding: 1em 10em;
 }
 .right{
     float: right;
@@ -87,7 +87,7 @@ body{
     background-color: #25525E;
     width: 100%;
     top: 0;
-    padding: 1em 2em 2em 2em;
+    padding: 1em 20em 2em 2em;
     font-weight: 100;
     font-size: 0.6em;
 
@@ -254,6 +254,5 @@ h1 {
     border-bottom: 1px dotted #999;
     padding-bottom: 28px;
     padding-top: 13px;
-    margin-left: 30px;
     font-size: 25px;
 }
